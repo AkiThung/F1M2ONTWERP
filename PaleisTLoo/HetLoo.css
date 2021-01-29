@@ -1,0 +1,17 @@
+body{
+    font-family: sans-serif;
+    background-color: #cccccc;
+    color:white
+  }
+h1{
+  font-family: serif;
+  color: red;
+  background-color: black;
+
+}
+
+.image{
+  max-width: 100%;
+
+}
+
